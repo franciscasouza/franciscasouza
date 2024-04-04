@@ -1,6 +1,6 @@
 ### Olá!, me chamo Francisca Souza
 
-- 🌱 Atualmente estou no Bootcamp Potência Tech iFood - Desenvolvimento de Jogos e Docker Fundamentals
+- 🌱 Atualmente estou no Bootcamp - Coding The Future Avanade - .NET Developer 
 
 ##
 
